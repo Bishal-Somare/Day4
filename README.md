@@ -17,7 +17,7 @@ How to Run
 
 1. Clone the repository:
    
-   git clone https://github.com/Bishal-Somare/library-management-system.git
+   git clone https://github.com/Bishal-Somare/Day4.git
    cd Day4
    
 2.Run 
